@@ -8,19 +8,19 @@ Always use two spaces for one indentation. Do not use tabs for indentation and d
 [+] 1.2. Use lowercase
 All HTML-tags, attributes and their values, CSS selectors, CSS properties and their values must be in lowercase. <!DOCTYPE html> is an exception to this rule.
 
-[] 1.3. Quotes in HTML & CSS files
+[+] 1.3. Quotes in HTML & CSS files
 Use double quotes instead of single quotes for HTML attributes and CSS properties.
 
 
 [] 2. HTML
 
-[] 2.1. Formatting
+[+] 2.1. Formatting
 Put every block, table or list element on a new line, regardless of their styles.
 
-[] 2.2. Document Type
+[+] 2.2. Document Type
 Use HTML5.
 
-[] 2.3. Named character references
+[+] 2.3. Named character references
 Do not use named character references.
 
 There is no sense in using named character references, such as &mdash;(—), &rdquo;(”) or &#x263a;(☺), when all files use the same encoding (UTF-8).
@@ -84,18 +84,18 @@ HTML & CSS. Advanced level.
    ![](https://docs.rs.school/images/fancy-weather.png)
 3. Deploy: https://robowavee.github.io/clean-code-s1e1/
 4. Done 12.10.2025 / deadline 14.10.2025
-5. Score: 4 / 45
-- Beginner guideline (4/30) each 2
+5. Score: 12 / 45
+- Beginner guideline (12/30) each 2
 
   - 1. General HTML & CSS rules
   - [+] 1.1. Indentation (2)
   - [+] 1.2. Use lowercase (2)
-  - [] 1.3. Quotes in HTML & CSS files (2)
+  - [+] 1.3. Quotes in HTML & CSS files (2)
 
   - 2. HTML
-  - [] 2.1. Formatting (2)
-  - [] 2.2. Document Type (2)
-  - [] 2.3. Named character references (2)
+  - [+] 2.1. Formatting (2)
+  - [+] 2.2. Document Type (2)
+  - [+] 2.3. Named character references (2)
   - [] 2.4. 'type' attribute (2)
   - [] 2.5. HTML Line-Wrapping (2)
 
