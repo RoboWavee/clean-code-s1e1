@@ -27,10 +27,8 @@ There is no sense in using named character references, such as &mdash;(—), &rd
 
 The only exception to this rule - special symbols in HTML (e.g. < and &) and "invisible" characters (e.g. non-breaking space &nbsp;).
 
-[] 2.4. 'type' attribute
+[+] 2.4. 'type' attribute
 Do not use type attribute when connecting styles and scripts (use it only if you connect not .css or .js).
-
-Optional recommendations:
 
 [] 2.5. HTML Line-Wrapping
 Break long lines into multiple lines.
@@ -83,9 +81,9 @@ HTML & CSS. Advanced level.
 2. Screenshot:
    ![](https://docs.rs.school/images/fancy-weather.png)
 3. Deploy: https://robowavee.github.io/clean-code-s1e1/
-4. Done 12.10.2025 / deadline 14.10.2025
-5. Score: 12 / 45
-- Beginner guideline (12/30) each 2
+4. Done 18.10.2025 / deadline 21.10.2025
+5. Score: 14 / 45
+- Beginner guideline (14/30) each 2
 
   - 1. General HTML & CSS rules
   - [+] 1.1. Indentation (2)
@@ -96,7 +94,7 @@ HTML & CSS. Advanced level.
   - [+] 2.1. Formatting (2)
   - [+] 2.2. Document Type (2)
   - [+] 2.3. Named character references (2)
-  - [] 2.4. 'type' attribute (2)
+  - [+] 2.4. 'type' attribute (2)
   - [] 2.5. HTML Line-Wrapping (2)
 
   -  3. CSS
