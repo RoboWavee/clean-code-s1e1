@@ -2,7 +2,7 @@ HTML & CSS. Beginner level
 
 [] 1. General HTML & CSS rules
 
-[] 1.1. Indentation
+[+] 1.1. Indentation
 Always use two spaces for one indentation. Do not use tabs for indentation and do not mix indentation types (tabs and spaces).
 
 [] 1.2. Use lowercase
@@ -84,11 +84,11 @@ HTML & CSS. Advanced level.
    ![](https://docs.rs.school/images/fancy-weather.png)
 3. Deploy: https://robowavee.github.io/clean-code-s1e1/
 4. Done 12.10.2025 / deadline 14.10.2025
-5. Score: 0 / 45
-- Beginner guideline (0/30) each 2
+5. Score: 2 / 45
+- Beginner guideline (2/30) each 2
 
   - 1. General HTML & CSS rules
-  - [] 1.1. Indentation (2)
+  - [+] 1.1. Indentation (2)
   - [] 1.2. Use lowercase (2)
   - [] 1.3. Quotes in HTML & CSS files (2)
 
