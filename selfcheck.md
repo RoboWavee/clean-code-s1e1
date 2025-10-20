@@ -35,18 +35,18 @@ Break long lines into multiple lines.
 
 [] 3. CSS
 
-[]  3.1. Single style for selectors naming
+[+]  3.1. Single style for selectors naming
 Whichever style of name writing you choose, follow it throughout the project.
 
 If you use BEM, stick to that notation without exception.
 
-[] 3.2. Meaningful naming of identifiers and classes:
+[+] 3.2. Meaningful naming of identifiers and classes:
 Use template or meaningful class names and identifiers.
 
-[] 3.3. Keep the names of identifiers and classes concise
+[+] 3.3. Keep the names of identifiers and classes concise
 For identifiers and classes, use names that are as long as necessary, but as short as possible.
 
-[] 3.4. Tag selectors
+[+] 3.4. Tag selectors
 Do not use tag selectors (except for intentionally resetting the default styles).
 
 [] 3.5. Indentation in blocks
@@ -82,8 +82,8 @@ HTML & CSS. Advanced level.
    ![](https://docs.rs.school/images/fancy-weather.png)
 3. Deploy: https://robowavee.github.io/clean-code-s1e1/
 4. Done 18.10.2025 / deadline 21.10.2025
-5. Score: 14 / 45
-- Beginner guideline (14/30) each 2
+5. Score: 22 / 45
+- Beginner guideline (22/30) each 2
 
   - 1. General HTML & CSS rules
   - [+] 1.1. Indentation (2)
@@ -98,10 +98,10 @@ HTML & CSS. Advanced level.
   - [] 2.5. HTML Line-Wrapping (0)
 
   -  3. CSS
-  - []  3.1. Single style for selectors naming (2)
-  - [] 3.2. Meaningful naming of identifiers and classes (2)
-  - [] 3.3. Keep the names of identifiers and classes concise (2)
-  - [] 3.4. Tag selectors (2)
+  - [+]  3.1. Single style for selectors naming (2)
+  - [+] 3.2. Meaningful naming of identifiers and classes (2)
+  - [+] 3.3. Keep the names of identifiers and classes concise (2)
+  - [+] 3.4. Tag selectors (2)
   - [] 3.5. Indentation in blocks (2)
   - [] 3.6. Space after property name (2)
   - [] 3.7. Semicolon after properties (2)
