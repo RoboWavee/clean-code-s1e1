@@ -95,7 +95,7 @@ HTML & CSS. Advanced level.
   - [+] 2.2. Document Type (2)
   - [+] 2.3. Named character references (2)
   - [+] 2.4. 'type' attribute (2)
-  - [] 2.5. HTML Line-Wrapping (2)
+  - [] 2.5. HTML Line-Wrapping (0)
 
   -  3. CSS
   - []  3.1. Single style for selectors naming (2)
