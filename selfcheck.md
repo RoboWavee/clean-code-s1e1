@@ -49,13 +49,13 @@ For identifiers and classes, use names that are as long as necessary, but as sho
 [+] 3.4. Tag selectors
 Do not use tag selectors (except for intentionally resetting the default styles).
 
-[] 3.5. Indentation in blocks
+[+] 3.5. Indentation in blocks
 Always indent the content of blocks.
 
-[] 3.6. Space after property name
+[+] 3.6. Space after property name
 Always use one space after (not before) a colon in properties.
 
-[] 3.7. Semicolon after properties
+[+] 3.7. Semicolon after properties
 Put semicolon after each property.
 
 [] 3.8. Separate selectors and properties
@@ -82,8 +82,8 @@ HTML & CSS. Advanced level.
    ![](https://docs.rs.school/images/fancy-weather.png)
 3. Deploy: https://robowavee.github.io/clean-code-s1e1/
 4. Done 18.10.2025 / deadline 21.10.2025
-5. Score: 22 / 45
-- Beginner guideline (22/30) each 2
+5. Score: 28 / 45
+- Beginner guideline (28/30) each 2
 
   - 1. General HTML & CSS rules
   - [+] 1.1. Indentation (2)
@@ -102,9 +102,9 @@ HTML & CSS. Advanced level.
   - [+] 3.2. Meaningful naming of identifiers and classes (2)
   - [+] 3.3. Keep the names of identifiers and classes concise (2)
   - [+] 3.4. Tag selectors (2)
-  - [] 3.5. Indentation in blocks (2)
-  - [] 3.6. Space after property name (2)
-  - [] 3.7. Semicolon after properties (2)
+  - [+] 3.5. Indentation in blocks (2)
+  - [+] 3.6. Space after property name (2)
+  - [+] 3.7. Semicolon after properties (2)
   - [] 3.8. Separate selectors and properties (2)
 
 

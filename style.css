@@ -36,7 +36,7 @@ body {
 .task__label {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .add-task__form {
@@ -137,30 +137,32 @@ li > label {
 }
 
 li >  input[type="text"] {
-  width: 226px
+  width: 226px;
 }
+
 .btn-delete img {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
+
 .btn-delete img:hover {
   transform: rotateZ(0);
 }
 /* Completed */
 #tasks__list-completed label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 ul li input[type=text] {
-  display: none
+  display: none;
 }
 
 ul li.task-edit input[type=text] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 ul li.task-edit label {
