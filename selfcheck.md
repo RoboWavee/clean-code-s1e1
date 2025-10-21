@@ -84,8 +84,8 @@ HTML & CSS. Advanced level.
    ![](https://docs.rs.school/images/fancy-weather.png)
 3. Deploy: https://robowavee.github.io/clean-code-s1e1/
 4. Done 12.10.2025 / deadline 14.10.2025
-5. Score: 36 / 45
-- Beginner guideline (26/30) each 2
+5. Score: 43 / 45
+- Beginner guideline (28/30) each 2
 
   - 1. General HTML & CSS rules
   - [+] 1.1. Indentation (2)
@@ -100,7 +100,7 @@ HTML & CSS. Advanced level.
   - [] 2.5. HTML Line-Wrapping (2)
 
   -  3. CSS
-  - [] 3.1. Single style for selectors naming (2)
+  - [+] 3.1. Single style for selectors naming (2)
   - [+] 3.2. Meaningful naming of identifiers and classes (2)
   - [+] 3.3. Keep the names of identifiers and classes concise (2)
   - [] 3.4. Tag selectors (2)
@@ -110,11 +110,11 @@ HTML & CSS. Advanced level.
   - [+] 3.8. Separate selectors and properties (2)
 
 
-- HTML & CSS. Advanced level.(10/15) each 5
+- HTML & CSS. Advanced level.(15/15) each 5
 
   - 1. HTML
   - [+] 1.1. Semantics (5)
   - [+] 1.2. Media alternatives (5)
 
   - 2. CSS
-  - [] 2.1. BEM (5)
+  - [+] 2.1. BEM (5)
