@@ -84,8 +84,8 @@ HTML & CSS. Advanced level.
    ![](https://docs.rs.school/images/fancy-weather.png)
 3. Deploy: https://robowavee.github.io/clean-code-s1e1/
 4. Done 12.10.2025 / deadline 14.10.2025
-5. Score: 8 / 45
-- Beginner guideline (8/30) each 2
+5. Score: 14 / 45
+- Beginner guideline (14/30) each 2
 
   - 1. General HTML & CSS rules
   - [+] 1.1. Indentation (2)
@@ -94,9 +94,9 @@ HTML & CSS. Advanced level.
 
   - 2. HTML
   - [+] 2.1. Formatting (2)
-  - [] 2.2. Document Type (2)
-  - [] 2.3. Named character references (2)
-  - [] 2.4. 'type' attribute (2)
+  - [+] 2.2. Document Type (2)
+  - [+] 2.3. Named character references (2)
+  - [+] 2.4. 'type' attribute (2)
   - [] 2.5. HTML Line-Wrapping (2)
 
   -  3. CSS
