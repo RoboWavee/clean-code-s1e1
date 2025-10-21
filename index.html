@@ -15,12 +15,12 @@
         <label class="add-task__label" for="new-task">Add Item</label>
         <div class="add-task__form">
           <input id="new-task" class="app-task" type="text">
-          <button>Add</button>
+          <button class="btn-add">Add</button>
         </div>
       </section>
-      <section>
-        <h3>Todo</h3>
-          <ul id="incompleteTasks">
+      <section class="tasks">
+        <h3 class="tasks__title">Todo</h3>
+          <ul id="incompleteTasks" class="tasks__list">
           <li>
             <input type="checkbox">
             <label class="app-task">Pay Bills</label> 
@@ -40,9 +40,9 @@
           </li>
         </ul>
       </section>
-      <section>
-        <h3>Completed</h3>
-        <ul id="completed-tasks">
+      <section class="tasks">
+        <h3 class="tasks__title">Completed</h3>
+        <ul id="completed-tasks" class="tasks__list">
           <li>
             <input type="checkbox" checked>
             <label class="app-task">See the Doctor</label>
