@@ -114,7 +114,7 @@ HTML & CSS. Advanced level.
 
   - 1. HTML
   - [] 1.1. Semantics (5)
-  - [] 1.2. Media alternatives (5)
+  - [+] 1.2. Media alternatives (5)
 
   - 2. CSS
   - [] 2.1. BEM (5)
