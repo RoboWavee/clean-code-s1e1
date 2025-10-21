@@ -84,7 +84,7 @@ HTML & CSS. Advanced level.
    ![](https://docs.rs.school/images/fancy-weather.png)
 3. Deploy: https://robowavee.github.io/clean-code-s1e1/
 4. Done 12.10.2025 / deadline 14.10.2025
-5. Score: 22 / 45
+5. Score: 32 / 45
 - Beginner guideline (22/30) each 2
 
   - 1. General HTML & CSS rules
@@ -110,10 +110,10 @@ HTML & CSS. Advanced level.
   - [+] 3.8. Separate selectors and properties (2)
 
 
-- HTML & CSS. Advanced level.(0/15) each 5
+- HTML & CSS. Advanced level.(10/15) each 5
 
   - 1. HTML
-  - [] 1.1. Semantics (5)
+  - [+] 1.1. Semantics (5)
   - [+] 1.2. Media alternatives (5)
 
   - 2. CSS
